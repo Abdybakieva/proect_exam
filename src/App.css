@@ -1,0 +1,9 @@
+.light {
+  background-color: azure;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: #fff;
+}
